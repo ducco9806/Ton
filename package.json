@@ -7,5 +7,9 @@
     "test": "exit 0"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cmake": "^0.0.4",
+    "make": "^0.0.0"
+  }
 }
